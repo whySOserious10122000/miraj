@@ -94,7 +94,7 @@ const SideBar = () => {
             className={`text-white origin-left font-semibold text-4xl duration-200 ${!open && "scale-0"
               }`}
           >
-            Green Environment
+            Crops Saver
           </h1>
         </div>
         <ul className="pt-6 h-full">

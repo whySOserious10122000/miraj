@@ -51,7 +51,7 @@ const About = () => {
             </div>
 
             <div className="flex-1 md:p-10 p-4 sm:text-end text-center">
-              <h1 className='text-darkBlue font-semibold  md:text-5xl text-3xl'>About <span style={gradientStyle}>Green Environment</span></h1>
+              <h1 className='text-darkBlue font-semibold  md:text-5xl text-3xl'>About <span style={gradientStyle}>Crops Saver</span></h1>
               <h2 className='text-xl text-gray-600 mt-8'>AnBizz.com is a Digital <br /> Platform of the chemical industry</h2>
 
               <div className='flex md:flex-row flex-col justify-end gap-6'>
@@ -126,7 +126,7 @@ const About = () => {
                 <p>Powerful</p>
               </div>
 
-              <p className='text-darkBlue mt-8 text-md'>All these requirement motivate us to develop Green Environment.</p>
+              <p className='text-darkBlue mt-8 text-md'>All these requirement motivate us to develop Crops Saver.</p>
 
 
             </div>

@@ -58,7 +58,7 @@ const OtpVerification = () => {
           <div className=' flex flex-col justify-center items-center'>
             <h2 className='text-white text-3xl font-semibold text-center'>Don’t have an account yet?</h2>
             <p className='text-white text-sm mt-4 text-center'>Create Your Account to Start Your Digital
-              Business Experience with Green Environment</p>
+              Business Experience with Crops Saver</p>
             <button className='bg-darkBlue text-white px-6 py-3 mt-4 border border-gray-200 rounded-md'>Register</button>
           </div>
         </div>

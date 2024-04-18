@@ -49,7 +49,7 @@ const Myprofile = () => {
                                 </div>
                                 <div className='pt-[60px]'>
                                     <div className='flex flex-col pt-3'>
-                                        <h2 className='text-3xl font-bold'>Green Environment</h2>
+                                        <h2 className='text-3xl font-bold'>Crops Saver</h2>
                                         <p className='text-lg font-medium'>Company ID (Company Id Value)</p>
                                         <ul className='ps-5 marker:text-green-700 marker:text-lg'>
                                             <li className='list-disc text-lg'>Active</li>

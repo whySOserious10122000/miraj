@@ -47,7 +47,7 @@ const Header = () => {
                         <div className='font-medium  cursor-pointer flex items-center gap-1'>
                             <Link className='flex gap-2 md:pr-10' to="/">
                                 <img src={Logo} alt="" />
-                                <h1 className='text-darkBlue text-2xl ps-2 font-semibold'>Green Environment</h1>
+                                <h1 className='text-darkBlue text-2xl ps-2 font-semibold'>Crops Saver</h1>
                             </Link>
                             <ul className={`lg:flex lg:items-center lg:pb-0 sm:pb-12 absolute lg:static bg-white lg:z-auto z-50  left-0 w-full lg:w-auto lg:px-4 pl-9 transition-all duration-500 ease-in ${open ? 'top-16 shadow-lg ' : 'top-[-490px]'}`}>
                                 <li className='flex items-center gap-2 px-2 font-semibold' style={{ whiteSpace: 'nowrap' }}>

@@ -92,7 +92,7 @@ const Footer = () => {
 
             <h3 className='mt-8 text-1/2xl'>
               <Link to='/about' className='font-semibold text-xl'>
-                About <br /><span className='text-3xl' style={gradientStyle}>Green Environment</span>
+                About <br /><span className='text-3xl' style={gradientStyle}>Crops Saver</span>
               </Link>
             </h3>
           </div>
@@ -162,7 +162,7 @@ const Footer = () => {
         <hr />
 
         <div className='w-full p-8 flex md:flex-row flex-col gap-6 items-center justify-between'>
-          <span className='text-center text-[#FFFFFF]/60'>©2023 Green Environment. All right reserved.</span>
+          <span className='text-center text-[#FFFFFF]/60'>©2023 Crops Saver. All right reserved.</span>
 
           <p className='text-center text-[#FFFFFF]/60'>Marketplace facilitator notice</p>
 

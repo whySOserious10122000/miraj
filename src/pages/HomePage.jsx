@@ -220,7 +220,7 @@ const HomePage = () => {
         <div style={{ background: "#5587FA1A" }} className='sm:p-10 p-0 flex md:flex-row flex-col'>
           <div className="flex-1 p-8">
             <h1 className='text-3xl font-medium text-darkBlue font-semibold'>Buy. Sell. Market on </h1>
-            <h1 className='text-3xl font-medium text-darkBlue mt-1 font-semibold'>Green Environment</h1>
+            <h1 className='text-3xl font-medium text-darkBlue mt-1 font-semibold'>Crops Saver</h1>
             <p className='mt-8 text-[#363D50] opacity-70 '>Attract and Interact</p>
             <p className='text-[#363D50] opacity-70'>on your Company Profile.</p>
             <p className='text-[#363D50] opacity-70'>Transact on your Buying/Selling Dashboard.</p>
@@ -233,7 +233,7 @@ const HomePage = () => {
               </div>
               <div className='flex gap-4 items-center'>
                 <FontAwesomeIcon className='text-gray-500' icon={faEnvelope} />
-                <span className='text-gray-500'>support@Green Environment.com</span>
+                <span className='text-gray-500'>support@Crops Saver.com</span>
               </div>
             </div>
           </div>
